@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "jsonrpc.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tesseract-one/JsonRPC.swift.git",
+      "state" : {
+        "revision" : "6423cd61d0d82b89c875b64226f728859566705f",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4461CCBC-77A6-4364-A032-E11B4483B9E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54BD77CE-58A9-48B2-8206-BCB4001B57E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kanto/ClientCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C37CAC2C-5532-4EED-A2D1-C21B8CFEE3BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kanto/ClientCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ClientCell"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "C37CAC2C-5532-4EED-A2D1-C21B8CFEE3BC - 64a7b6bcb4ccede3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Kanto.ClientCell.showClientDetail : Swift.Bool"
+                  moduleName = "Kanto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/testxavier/Documents/XCode/Kanto/Kanto/ClientCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "C37CAC2C-5532-4EED-A2D1-C21B8CFEE3BC - b0b5a39909c00389"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kanto.ClientCell.showClientDetail.getter : Swift.Bool"
+                  moduleName = "Kanto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/testxavier/Documents/XCode/Kanto/Kanto/ClientCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "C37CAC2C-5532-4EED-A2D1-C21B8CFEE3BC - 7c4d3687be9d7bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kanto.ClientCell.showClientDetail.setter : Swift.Bool"
+                  moduleName = "Kanto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/testxavier/Documents/XCode/Kanto/Kanto/ClientCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "C37CAC2C-5532-4EED-A2D1-C21B8CFEE3BC - bb70d9d5e9c07984"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kanto.ClientCell.showClientDetail.modify : Swift.Bool"
+                  moduleName = "Kanto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/testxavier/Documents/XCode/Kanto/Kanto/ClientCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "C37CAC2C-5532-4EED-A2D1-C21B8CFEE3BC - ab61198782bd8db5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kanto.ClientCell.showClientDetail.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Kanto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/testxavier/Documents/XCode/Kanto/Kanto/ClientCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C37CAC2C-5532-4EED-A2D1-C21B8CFEE3BC - c8429d26714c514d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kanto.ClientCell.$showClientDetail.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "Kanto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/testxavier/Documents/XCode/Kanto/Kanto/ClientCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6F1658F-6EB2-45FC-86EA-419ABD91F0EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kanto/ClientCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
